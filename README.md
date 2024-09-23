@@ -63,7 +63,7 @@ plt.title('Distribution of Preferred Shipping Modes')
 plt.xlabel('Shipping Mode')
 plt.ylabel('Count')
 plt.show()
-``
+```
 ![Distribution_od_Preferred_Shipping_Modes](https://github.com/user-attachments/assets/c71008bf-4487-4b56-bdab-a31ddcbe7b9e)
 
 3. Which are the most profitable category and sub-category?
@@ -80,7 +80,7 @@ plt.title('Total Profit by Category')
 plt.xlabel('Categoty')
 plt.ylabel('Total Profit')
 plt.show()
-``
+```
 ![Total_Profit_Category](https://github.com/user-attachments/assets/9017a6da-b8b7-4dfc-abda-b603bfb60fc4)
 
 ```py
@@ -96,7 +96,7 @@ plt.xlabel('Sub_Categoty')
 plt.ylabel('Total Profit')
 plt.xticks(rotation=45, ha='right') 
 plt.show()
-``
+```
 ![Total_Profit_SubCategory](https://github.com/user-attachments/assets/878394a7-0d28-4eec-aa48-06262108845e)
 
 ### Results/Findings
